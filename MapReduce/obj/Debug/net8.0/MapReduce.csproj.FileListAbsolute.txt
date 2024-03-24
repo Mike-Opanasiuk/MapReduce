@@ -1,0 +1,14 @@
+C:\Users\Opanasiuk Mykhailo\Desktop\MapReduce\MapReduce\bin\Debug\net8.0\MapReduce.exe
+C:\Users\Opanasiuk Mykhailo\Desktop\MapReduce\MapReduce\bin\Debug\net8.0\MapReduce.deps.json
+C:\Users\Opanasiuk Mykhailo\Desktop\MapReduce\MapReduce\bin\Debug\net8.0\MapReduce.runtimeconfig.json
+C:\Users\Opanasiuk Mykhailo\Desktop\MapReduce\MapReduce\bin\Debug\net8.0\MapReduce.dll
+C:\Users\Opanasiuk Mykhailo\Desktop\MapReduce\MapReduce\bin\Debug\net8.0\MapReduce.pdb
+C:\Users\Opanasiuk Mykhailo\Desktop\MapReduce\MapReduce\obj\Debug\net8.0\MapReduce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Opanasiuk Mykhailo\Desktop\MapReduce\MapReduce\obj\Debug\net8.0\MapReduce.AssemblyInfoInputs.cache
+C:\Users\Opanasiuk Mykhailo\Desktop\MapReduce\MapReduce\obj\Debug\net8.0\MapReduce.AssemblyInfo.cs
+C:\Users\Opanasiuk Mykhailo\Desktop\MapReduce\MapReduce\obj\Debug\net8.0\MapReduce.csproj.CoreCompileInputs.cache
+C:\Users\Opanasiuk Mykhailo\Desktop\MapReduce\MapReduce\obj\Debug\net8.0\MapReduce.dll
+C:\Users\Opanasiuk Mykhailo\Desktop\MapReduce\MapReduce\obj\Debug\net8.0\refint\MapReduce.dll
+C:\Users\Opanasiuk Mykhailo\Desktop\MapReduce\MapReduce\obj\Debug\net8.0\MapReduce.pdb
+C:\Users\Opanasiuk Mykhailo\Desktop\MapReduce\MapReduce\obj\Debug\net8.0\MapReduce.genruntimeconfig.cache
+C:\Users\Opanasiuk Mykhailo\Desktop\MapReduce\MapReduce\obj\Debug\net8.0\ref\MapReduce.dll
